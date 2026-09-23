@@ -30,4 +30,4 @@ Do not commit real candidate resumes or personal information to GitHub. The `dat
 ## License
 MIT License. Copyright (c) 2026 Jatin Tanwar.
 
-This is a portfolio/educational screening aid, not an autonomous hiring decision system.
+
